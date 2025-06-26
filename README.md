@@ -17,7 +17,7 @@ AI Engineer | Deep Learning | Computer Vision | LLMs | Vision-Language Models
 
 AI Engineer at Siemens Healthineers with experience in **deep learning**, **LLM fine-tuning**, and **real-time computer vision**. I specialize in building and deploying scalable AI systems using PyTorch, TensorFlow, and Power BI.
 
-🎓 Master’s in AI & ML (FAU Erlangen-Nürnberg)  
+🎓 Master’s in Information Technology (FAU Erlangen-Nürnberg)  
 📝 Thesis: *Prompt Tuning for Vision-Language Models (CLIP, ResNet)*  
 🌍 Worked across Germany, China, and Pakistan  
 
