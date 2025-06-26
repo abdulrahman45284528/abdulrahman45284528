@@ -15,10 +15,10 @@ AI Engineer | Deep Learning | Computer Vision | LLMs | Vision-Language Models
 
 ### 👨‍💻 About Me
 
-AI Engineer at Siemens Healthineers with experience in **deep learning**, **LLM fine-tuning**, and **real-time computer vision**. I specialize in building and deploying scalable AI systems using PyTorch, TensorFlow, and Power BI.
+AI Engineer with experience in **Python**,**deep learning**,**C++**, **real-time Computer Vision** and **LLM fine-tuning**. I specialize in building and deploying scalable AI systems using PyTorch, TensorFlow, and Power BI.
 
 🎓 Master’s in Information Technology (FAU Erlangen-Nürnberg)  
-📝 Thesis: *Prompt Tuning for Vision-Language Models (CLIP, ResNet)*  
+📝 Thesis: *Prompt Tuning of Vision-Language Models (CLIP, ResNet) for domain adaptation and generalization*  
 🌍 Worked across Germany, China, and Pakistan  
 
 ---
@@ -39,3 +39,4 @@ AI Engineer at Siemens Healthineers with experience in **deep learning**, **LLM 
 
 📫 [abdulrahman.ashraf@gmail.com](mailto:abdulrahman.ashraf@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+
