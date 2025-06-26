@@ -4,12 +4,13 @@
 AI Engineer | Deep Learning | Computer Vision | LLMs | Vision-Language Models
 </h3>
 
-<p align="center">
-📍 Nürnberg, Germany &nbsp;|&nbsp;
+<p align="center" style="font-size: 0.9em; color: gray;">
 📧 <a href="mailto:abdulrahman.ashraf@gmail.com">Email</a> &nbsp;|&nbsp;
 💼 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">LinkedIn</a> &nbsp;|&nbsp;
-👨‍💻 <a href="https://github.com/abdulrahman45284528">GitHub</a>
+👨‍💻 <a href="https://github.com/abdulrahman45284528">GitHub</a> &nbsp;|&nbsp;
+🌐 <a href="https://abdulrahman45284528.github.io">Portfolio</a>
 </p>
+
 
 ---
 
